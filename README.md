@@ -1,1 +1,1 @@
-# aDDDdemo
+# DDD demonstration

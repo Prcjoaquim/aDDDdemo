@@ -2,15 +2,6 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.5": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
-        }
-      },
       "WebSolution01.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -37,20 +28,6 @@
     }
   },
   "libraries": {
-    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.5": {
-      "sha512": "2VSCj2TZPMdeEi279Lawi6qJQu4+sEWizSOYrhY6hapyS1jxn1jVUZT1Ugv68bya+x8+3lD4+RqhUZql9PhISQ==",
-      "type": "package",
-      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.5",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
-        "microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512",
-        "microsoft.extensions.dependencyinjection.abstractions.nuspec"
-      ]
-    },
     "WebSolution01.Domain/1.0.0": {
       "type": "project",
       "path": "../WebSolution01.Domain/WebSolution01.Domain.csproj",
@@ -64,7 +41,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Microsoft.Extensions.DependencyInjection.Abstractions >= 3.1.5",
       "WebSolution01.Domain >= 1.0.0",
       "WebSolution01.Infra >= 1.0.0"
     ]
@@ -76,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Application\\WebSolution01.Application.csproj",
+      "projectUniqueName": "C:\\Git\\aDDDdemo\\WebSolution01.Application\\WebSolution01.Application.csproj",
       "projectName": "WebSolution01.Application",
-      "projectPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Application\\WebSolution01.Application.csproj",
+      "projectPath": "C:\\Git\\aDDDdemo\\WebSolution01.Application\\WebSolution01.Application.csproj",
       "packagesPath": "C:\\Users\\gsretail\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Application\\obj\\",
+      "outputPath": "C:\\Git\\aDDDdemo\\WebSolution01.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -100,11 +76,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Domain\\WebSolution01.Domain.csproj": {
-              "projectPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Domain\\WebSolution01.Domain.csproj"
+            "C:\\Git\\aDDDdemo\\WebSolution01.Domain\\WebSolution01.Domain.csproj": {
+              "projectPath": "C:\\Git\\aDDDdemo\\WebSolution01.Domain\\WebSolution01.Domain.csproj"
             },
-            "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Infra\\WebSolution01.Infra.csproj": {
-              "projectPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Infra\\WebSolution01.Infra.csproj"
+            "C:\\Git\\aDDDdemo\\WebSolution01.Infra\\WebSolution01.Infra.csproj": {
+              "projectPath": "C:\\Git\\aDDDdemo\\WebSolution01.Infra\\WebSolution01.Infra.csproj"
             }
           }
         }
@@ -117,28 +93,11 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
-        "dependencies": {
-          "Microsoft.Extensions.DependencyInjection.Abstractions": {
-            "target": "Package",
-            "version": "[3.1.5, )"
-          }
-        },
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }

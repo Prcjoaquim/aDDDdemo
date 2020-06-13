@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Infra\\WebSolution01.Infra.csproj",
+      "projectUniqueName": "C:\\Git\\aDDDdemo\\WebSolution01.Infra\\WebSolution01.Infra.csproj",
       "projectName": "WebSolution01.Infra",
-      "projectPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Infra\\WebSolution01.Infra.csproj",
+      "projectPath": "C:\\Git\\aDDDdemo\\WebSolution01.Infra\\WebSolution01.Infra.csproj",
       "packagesPath": "C:\\Users\\gsretail\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Infra\\obj\\",
+      "outputPath": "C:\\Git\\aDDDdemo\\WebSolution01.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,8 +57,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Domain\\WebSolution01.Domain.csproj": {
-              "projectPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Domain\\WebSolution01.Domain.csproj"
+            "C:\\Git\\aDDDdemo\\WebSolution01.Domain\\WebSolution01.Domain.csproj": {
+              "projectPath": "C:\\Git\\aDDDdemo\\WebSolution01.Domain\\WebSolution01.Domain.csproj"
             }
           }
         }
@@ -72,21 +72,10 @@
     "frameworks": {
       "netcoreapp3.1": {
         "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
+          "net461"
         ],
         "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "warn": true
       }
     }
   }
