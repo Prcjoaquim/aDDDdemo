@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebSolution01.Infra/1.0.0": {
+        "dependencies": {
+          "WebSolution01.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebSolution01.Infra.dll": {}
+        }
+      },
+      "WebSolution01.Domain/1.0.0": {
+        "runtime": {
+          "WebSolution01.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebSolution01.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebSolution01.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

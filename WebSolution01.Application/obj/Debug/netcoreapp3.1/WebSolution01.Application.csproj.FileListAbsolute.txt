@@ -1,0 +1,14 @@
+C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\bin\Debug\netcoreapp3.1\WebSolution01.Domain.dll
+C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.csprojAssemblyReference.cache
+C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.AssemblyInfoInputs.cache
+C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.AssemblyInfo.cs
+C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\bin\Debug\netcoreapp3.1\WebSolution01.Application.deps.json
+C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\bin\Debug\netcoreapp3.1\WebSolution01.Application.dll
+C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\bin\Debug\netcoreapp3.1\WebSolution01.Application.pdb
+C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\bin\Debug\netcoreapp3.1\WebSolution01.Infra.dll
+C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\bin\Debug\netcoreapp3.1\WebSolution01.Domain.pdb
+C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\bin\Debug\netcoreapp3.1\WebSolution01.Infra.pdb
+C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.csproj.CoreCompileInputs.cache
+C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.csproj.CopyComplete
+C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.dll
+C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.pdb
