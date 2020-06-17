@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AEDcWnKWQbzWUPlB14zBhvuxgk24vErG1nth8Wl3JBkkIGxZBBgSVlt6tuUoiu7MmPo2BxrLs0nCTtiomhWpkg==",
+  "dgSpecHash": "pyuKnEEhNfhpqB0Bi8soaTyoWUT28nBCeBJpcoH0IJ39n9SSyhI4iL1pRL67XYYe4yR55cC9X3s298d9mOWksg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Domain\\WebSolution01.Domain.csproj",
+  "projectFilePath": "C:\\Git\\aDDDdemo\\WebSolution01.Domain\\WebSolution01.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

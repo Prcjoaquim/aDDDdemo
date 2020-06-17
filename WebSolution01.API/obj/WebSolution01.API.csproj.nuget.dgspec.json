@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.API\\WebSolution01.API.csproj": {}
+    "C:\\Git\\aDDDdemo\\WebSolution01.API\\WebSolution01.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.API\\WebSolution01.API.csproj": {
+    "C:\\Git\\aDDDdemo\\WebSolution01.API\\WebSolution01.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.API\\WebSolution01.API.csproj",
+        "projectUniqueName": "C:\\Git\\aDDDdemo\\WebSolution01.API\\WebSolution01.API.csproj",
         "projectName": "WebSolution01.API",
-        "projectPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.API\\WebSolution01.API.csproj",
+        "projectPath": "C:\\Git\\aDDDdemo\\WebSolution01.API\\WebSolution01.API.csproj",
         "packagesPath": "C:\\Users\\gsretail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.API\\obj\\",
+        "outputPath": "C:\\Git\\aDDDdemo\\WebSolution01.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Application\\WebSolution01.Application.csproj": {
-                "projectPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Application\\WebSolution01.Application.csproj"
+              "C:\\Git\\aDDDdemo\\WebSolution01.Application\\WebSolution01.Application.csproj": {
+                "projectPath": "C:\\Git\\aDDDdemo\\WebSolution01.Application\\WebSolution01.Application.csproj"
               }
             }
           }
@@ -45,6 +45,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.4.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -67,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Application\\WebSolution01.Application.csproj": {
+    "C:\\Git\\aDDDdemo\\WebSolution01.Application\\WebSolution01.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Application\\WebSolution01.Application.csproj",
+        "projectUniqueName": "C:\\Git\\aDDDdemo\\WebSolution01.Application\\WebSolution01.Application.csproj",
         "projectName": "WebSolution01.Application",
-        "projectPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Application\\WebSolution01.Application.csproj",
+        "projectPath": "C:\\Git\\aDDDdemo\\WebSolution01.Application\\WebSolution01.Application.csproj",
         "packagesPath": "C:\\Users\\gsretail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Application\\obj\\",
+        "outputPath": "C:\\Git\\aDDDdemo\\WebSolution01.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -94,11 +100,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Domain\\WebSolution01.Domain.csproj": {
-                "projectPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Domain\\WebSolution01.Domain.csproj"
+              "C:\\Git\\aDDDdemo\\WebSolution01.Domain\\WebSolution01.Domain.csproj": {
+                "projectPath": "C:\\Git\\aDDDdemo\\WebSolution01.Domain\\WebSolution01.Domain.csproj"
               },
-              "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Infra\\WebSolution01.Infra.csproj": {
-                "projectPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Infra\\WebSolution01.Infra.csproj"
+              "C:\\Git\\aDDDdemo\\WebSolution01.Infra\\WebSolution01.Infra.csproj": {
+                "projectPath": "C:\\Git\\aDDDdemo\\WebSolution01.Infra\\WebSolution01.Infra.csproj"
               }
             }
           }
@@ -136,14 +142,14 @@
         }
       }
     },
-    "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Domain\\WebSolution01.Domain.csproj": {
+    "C:\\Git\\aDDDdemo\\WebSolution01.Domain\\WebSolution01.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Domain\\WebSolution01.Domain.csproj",
+        "projectUniqueName": "C:\\Git\\aDDDdemo\\WebSolution01.Domain\\WebSolution01.Domain.csproj",
         "projectName": "WebSolution01.Domain",
-        "projectPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Domain\\WebSolution01.Domain.csproj",
+        "projectPath": "C:\\Git\\aDDDdemo\\WebSolution01.Domain\\WebSolution01.Domain.csproj",
         "packagesPath": "C:\\Users\\gsretail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Domain\\obj\\",
+        "outputPath": "C:\\Git\\aDDDdemo\\WebSolution01.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -192,14 +198,14 @@
         }
       }
     },
-    "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Infra\\WebSolution01.Infra.csproj": {
+    "C:\\Git\\aDDDdemo\\WebSolution01.Infra\\WebSolution01.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Infra\\WebSolution01.Infra.csproj",
+        "projectUniqueName": "C:\\Git\\aDDDdemo\\WebSolution01.Infra\\WebSolution01.Infra.csproj",
         "projectName": "WebSolution01.Infra",
-        "projectPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Infra\\WebSolution01.Infra.csproj",
+        "projectPath": "C:\\Git\\aDDDdemo\\WebSolution01.Infra\\WebSolution01.Infra.csproj",
         "packagesPath": "C:\\Users\\gsretail\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Infra\\obj\\",
+        "outputPath": "C:\\Git\\aDDDdemo\\WebSolution01.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -219,8 +225,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Domain\\WebSolution01.Domain.csproj": {
-                "projectPath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Domain\\WebSolution01.Domain.csproj"
+              "C:\\Git\\aDDDdemo\\WebSolution01.Domain\\WebSolution01.Domain.csproj": {
+                "projectPath": "C:\\Git\\aDDDdemo\\WebSolution01.Domain\\WebSolution01.Domain.csproj"
               }
             }
           }

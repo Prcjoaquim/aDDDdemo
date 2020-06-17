@@ -20,7 +20,7 @@
     "WebSolution01.API": {
       "commandName": "Project",
       "launchBrowser": true,
-      "launchUrl": "v1/api/clients",
+      "launchUrl": "swagger",
       "applicationUrl": "http://localhost:5000",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"

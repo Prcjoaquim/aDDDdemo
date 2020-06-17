@@ -7,3 +7,12 @@ C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Domain\o
 C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Domain\obj\Debug\netcoreapp3.1\WebSolution01.Domain.csproj.CoreCompileInputs.cache
 C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Domain\obj\Debug\netcoreapp3.1\WebSolution01.Domain.dll
 C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Domain\obj\Debug\netcoreapp3.1\WebSolution01.Domain.pdb
+C:\Git\aDDDdemo\WebSolution01.Domain\bin\Debug\netcoreapp3.1\WebSolution01.Domain.deps.json
+C:\Git\aDDDdemo\WebSolution01.Domain\bin\Debug\netcoreapp3.1\WebSolution01.Domain.dll
+C:\Git\aDDDdemo\WebSolution01.Domain\bin\Debug\netcoreapp3.1\WebSolution01.Domain.pdb
+C:\Git\aDDDdemo\WebSolution01.Domain\obj\Debug\netcoreapp3.1\WebSolution01.Domain.csprojAssemblyReference.cache
+C:\Git\aDDDdemo\WebSolution01.Domain\obj\Debug\netcoreapp3.1\WebSolution01.Domain.AssemblyInfoInputs.cache
+C:\Git\aDDDdemo\WebSolution01.Domain\obj\Debug\netcoreapp3.1\WebSolution01.Domain.AssemblyInfo.cs
+C:\Git\aDDDdemo\WebSolution01.Domain\obj\Debug\netcoreapp3.1\WebSolution01.Domain.csproj.CoreCompileInputs.cache
+C:\Git\aDDDdemo\WebSolution01.Domain\obj\Debug\netcoreapp3.1\WebSolution01.Domain.dll
+C:\Git\aDDDdemo\WebSolution01.Domain\obj\Debug\netcoreapp3.1\WebSolution01.Domain.pdb

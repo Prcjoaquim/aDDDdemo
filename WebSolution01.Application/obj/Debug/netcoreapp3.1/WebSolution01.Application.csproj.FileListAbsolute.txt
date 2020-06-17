@@ -12,3 +12,17 @@ C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Applicat
 C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.csproj.CopyComplete
 C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.dll
 C:\Users\gsretail\source\repos\Aulas_Testes\WebSolution01\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.pdb
+C:\Git\aDDDdemo\WebSolution01.Application\bin\Debug\netcoreapp3.1\WebSolution01.Application.deps.json
+C:\Git\aDDDdemo\WebSolution01.Application\bin\Debug\netcoreapp3.1\WebSolution01.Application.dll
+C:\Git\aDDDdemo\WebSolution01.Application\bin\Debug\netcoreapp3.1\WebSolution01.Application.pdb
+C:\Git\aDDDdemo\WebSolution01.Application\bin\Debug\netcoreapp3.1\WebSolution01.Domain.dll
+C:\Git\aDDDdemo\WebSolution01.Application\bin\Debug\netcoreapp3.1\WebSolution01.Infra.dll
+C:\Git\aDDDdemo\WebSolution01.Application\bin\Debug\netcoreapp3.1\WebSolution01.Domain.pdb
+C:\Git\aDDDdemo\WebSolution01.Application\bin\Debug\netcoreapp3.1\WebSolution01.Infra.pdb
+C:\Git\aDDDdemo\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.csprojAssemblyReference.cache
+C:\Git\aDDDdemo\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.AssemblyInfoInputs.cache
+C:\Git\aDDDdemo\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.AssemblyInfo.cs
+C:\Git\aDDDdemo\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.csproj.CoreCompileInputs.cache
+C:\Git\aDDDdemo\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.csproj.CopyComplete
+C:\Git\aDDDdemo\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.dll
+C:\Git\aDDDdemo\WebSolution01.Application\obj\Debug\netcoreapp3.1\WebSolution01.Application.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nwisjDt0HwO2bipeEYV9d5GqLE54UpcIHzRxh1g/8AwUAgOGGGQOYONVOoqk8GozfM7YbpJKIO8r9oMbUdeQUw==",
+  "dgSpecHash": "RljMPtVW6iNnjoRw2TENHyMSBYf8qp3my/HMHPww+v2s2nT42XIgqCfDX74NE7nY9W7k1dG1r7vP0IjFnD6rHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gsretail\\source\\repos\\Aulas_Testes\\WebSolution01\\WebSolution01.Application\\WebSolution01.Application.csproj",
+  "projectFilePath": "C:\\Git\\aDDDdemo\\WebSolution01.Application\\WebSolution01.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gsretail\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.5\\microsoft.extensions.dependencyinjection.abstractions.3.1.5.nupkg.sha512"
   ],
