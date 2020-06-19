@@ -23,14 +23,14 @@ namespace WebSolution01.API
             services.AddControllers();
             services.AddDI();
 
-            //services.AddCors();
+            services.AddMvc().SetCompatibilityVersion(Microsoft.AspNetCore.Mvc.CompatibilityVersion.Version_3_0);
 
-            services.AddCors(c =>
-            {
-                c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin());
-            });
+            services.AddCors();
+            //services.AddCors(c =>
+            //{
+            //    c.AddPolicy("AllowOrigin", options => options.AllowAnyOrigin());
+            //});
 
-            services.AddMvc();
 
             services.AddSwaggerGen(c =>
             {
@@ -55,12 +55,12 @@ namespace WebSolution01.API
                 endpoints.MapControllers();
             });
 
-            app.UseCors(options => options.AllowAnyOrigin());
+            //app.UseCors(options => options.AllowAnyOrigin());
 
-            //app.UseCors(builder => builder
-            // .AllowAnyOrigin()
-            // .AllowAnyMethod()
-            // .AllowAnyHeader());
+            app.UseCors(builder => builder
+             .AllowAnyOrigin()
+             .AllowAnyMethod()
+             .AllowAnyHeader());
 
             app.UseSwagger();
 
